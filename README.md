@@ -2,6 +2,9 @@
 
 Oracle is a modern graphical user interface wrapper for AUR helpers and Pacman, designed to make package management on Arch Linux more accessible and user-friendly.
 
+![image](https://github.com/user-attachments/assets/4253408c-736b-4985-9f6a-00833cdc9bda)
+
+
 v0.0.1 Notes:
   - Only tested with Pacman and yay, but other AUR helpers should work! 
   - Installing, Removing, and Updating packages is functional
