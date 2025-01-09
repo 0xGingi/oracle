@@ -1,2 +1,5 @@
-requests>=2.31.0
-PyQt6
+PyQt6>=6.8.0
+PyQt6-Qt6>=6.8.1
+PyQt6-sip>=13.9.1
+requests>=2.32.3
+pyinstaller>=6.11.1
